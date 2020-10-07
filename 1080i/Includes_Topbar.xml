@@ -264,10 +264,10 @@
     </include>
 
     <include name="Topbar_SubMenu_Group_Content">
-        <top>80</top>
+        <top>90</top>
         <left>0</left>
         <right>0</right>
-        <height>40</height>
+        <height>60</height>
         <control type="image">
             <bottom>-24</bottom>
             <height>24</height>
@@ -296,15 +296,15 @@
     </include>
 
     <include name="Topbar_SubMenu_Layout">
-        <height>40</height>
+        <height>60</height>
         <left>0</left>
         <right>0</right>
         <orientation>horizontal</orientation>
-        <itemlayout height="40" width="320">
+        <itemlayout height="60" width="320">
             <control type="label">
                 <left>20</left>
                 <right>20</right>
-                <height>40</height>
+                <height>60</height>
                 <label>$INFO[ListItem.Label]</label>
                 <aligny>center</aligny>
                 <align>center</align>
@@ -312,14 +312,14 @@
                 <textcolor>panel_fg_70</textcolor>
             </control>
         </itemlayout>
-        <focusedlayout height="40" width="320">
+        <focusedlayout height="60" width="320">
             <control type="image">
                 <texture colordiffuse="$VAR[ColorHighlight]">common/white.png</texture>
             </control>
             <control type="label">
                 <left>20</left>
                 <right>20</right>
-                <height>40</height>
+                <height>60</height>
                 <label>$INFO[ListItem.Label]</label>
                 <aligny>center</aligny>
                 <align>center</align>

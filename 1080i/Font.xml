@@ -4,27 +4,27 @@
     <fontset id="Default" unicode="true">
         <font>
             <name>font_mainmenu</name>
-            <style>uppercase</style>
+            <style></style>
             <filename>RobotoCondensed-Light.ttf</filename>
             <size>40</size>
         </font>
         <font>
             <name>font_submenu</name>
-            <style>uppercase</style>
+            <style></style>
             <filename>RobotoCondensed-Regular.ttf</filename>
-            <size>22</size>
+            <size>28</size>
         </font>
         <font>
             <name>font_infobar_mainlabel</name>
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>34</size>
-            <style>uppercase</style>
+            <style></style>
         </font>
         <font>
             <name>font_infobar_sublabel</name>
             <filename>RobotoCondensed-Regular.ttf</filename>
             <size>24</size>
-            <style>uppercase</style>
+            <style></style>
         </font>
         <font>
             <name>font_plotbox</name>
@@ -72,7 +72,7 @@
         </font>
         <font>
             <name>font_dialog_okcancel</name>
-            <style>uppercase</style>
+            <style></style>
             <filename>RobotoCondensed-Regular.ttf</filename>
             <size>24</size>
         </font>
@@ -113,7 +113,7 @@
         </font>
         <font>
             <name>font_osd_textbutton</name>
-            <style>uppercase</style>
+            <style></style>
             <filename>RobotoCondensed-Regular.ttf</filename>
             <size>26</size>
         </font>
@@ -203,7 +203,7 @@
         </font>
         <font>
             <name>font_button</name>
-            <style>uppercase</style>
+            <style></style>
             <filename>RobotoCondensed-Regular.ttf</filename>
             <size>24</size>
         </font>
@@ -280,7 +280,7 @@
         <font>
             <name>lyr3</name>
             <filename>lyrics/Luckiest Guy.ttf</filename>
-            <style>uppercase</style>
+            <style></style>
             <linespacing>0.9</linespacing>
             <size>125</size>
         </font>
@@ -331,19 +331,19 @@
         </font>
         <font>
             <name>lyr7</name>
-            <style>uppercase</style>
+            <style></style>
             <filename>lyrics/Luckiest Guy.ttf</filename>
             <size>110</size>
         </font>
         <font>
             <name>lyr7a</name>
-            <style>uppercase</style>
+            <style></style>
             <filename>lyrics/Luckiest Guy.ttf</filename>
             <size>155</size>
         </font>
         <font>
             <name>lyr7b</name>
-            <style>uppercase</style>
+            <style></style>
             <filename>lyrics/Luckiest Guy.ttf</filename>
             <size>205</size>
         </font>
@@ -446,7 +446,7 @@
         </font> 
         <font>
             <name>lyr14</name>
-            <style>uppercase</style>
+            <style></style>
             <filename>lyrics/Luckiest Guy.ttf</filename>
             <size>140</size>
         </font>
